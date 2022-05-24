@@ -6,7 +6,7 @@
 
 =>comende ajoute controllers : php artisan make:controller nameController .
 
-=>schema::defaultStringLenght(191); AJOUTER POUR NO EROOR.
+=>schema::defaultStringLenght(191); AJOUTER POUR NO EROOR in AppServiceProvider.php.
 
 =>comende ajoute model avec Migrations : php artisan make:model nameModel -m .
 
