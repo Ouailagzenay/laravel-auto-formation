@@ -16,3 +16,12 @@
 
 =>comende pour mise à jour les table dans la baseDone :php artisan migrate:refresh.
 
+factory
+
+=>comonde create Factory : php artisan make:factory personeFactory.
+
+Seeder
+
+=>comonde create seeder :php artisan make:seeder personeSeeder .
+
+=>comende ajoute les contenu dans les tables : php artisan db:seed .
