@@ -25,3 +25,12 @@ Seeder
 =>comonde create seeder :php artisan make:seeder personeSeeder .
 
 =>comende ajoute les contenu dans les tables : php artisan db:seed .
+
+Create a new project :
+
+=> composer create-project laravel/laravel nomProject
+
+->composer require laravel/ui
+->php artisan ui vue --auth
+->npm install
+->npm run dev
