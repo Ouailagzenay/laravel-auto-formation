@@ -34,6 +34,10 @@ Create a new project :
 
 ->php artisan ui vue --auth
 
+=>php artisan make:model Categorie -a 
+
+=>php artisan make:model Prodact -a 
+
 ->npm install
 
 ->npm run dev
