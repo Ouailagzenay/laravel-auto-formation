@@ -31,6 +31,9 @@ Create a new project :
 => composer create-project laravel/laravel nomProject
 
 ->composer require laravel/ui
+
 ->php artisan ui vue --auth
+
 ->npm install
+
 ->npm run dev
