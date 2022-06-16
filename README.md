@@ -41,3 +41,6 @@ Create a new project :
 ->npm install
 
 ->npm run dev
+
+composer update --ignore-platform-reqs
+
